@@ -40,15 +40,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roovix369&theme=tokyonight" width="37%" height="200" />
 </p>
 
-## Documentation
-
-[Installation Guide](https://www.roovix.com) -
-[API Reference](https://www.roovix.com) -
-[Security](https://www.roovix.com) -
-[Troubleshooting](https://www.roovix.com)
-
 <br/>
-
 
 ## Support
 

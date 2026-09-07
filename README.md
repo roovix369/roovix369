@@ -7,7 +7,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>, [Roovix](https://www.roovix.com) here!
   <!-- Tagline with animation -->
 <h6 style="font-size: 10px; color: #00ff88; font-weight: normal; margin: 20px 0;">
-  Designing intelligent security solutions to eliminate illegal activity before it begins.
+  Roovix — Engineering Trust • Securing Tomorrow.
 </h6>
 
 <br/><br/>
